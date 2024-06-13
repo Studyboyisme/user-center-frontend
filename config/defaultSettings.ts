@@ -12,9 +12,9 @@ const Settings: LayoutSettings & {
   fixedHeader: false,
   fixSiderbar: true,
   colorWeak: false,
-  title: '鱼皮用户中心',
+  title: '星球用户中心',
   pwa: false,
-  logo: 'https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg',
+  logo: 'https://web-study-123.oss-cn-hangzhou.aliyuncs.com/%E6%98%9F%E7%90%83.png',
   iconfontUrl: '',
 };
 
